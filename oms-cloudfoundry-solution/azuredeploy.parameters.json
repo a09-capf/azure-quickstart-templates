@@ -9,7 +9,7 @@
             "value": "Pre April 2018"
         },
         "omsWorkspaceSku": {
-            "value": "pernode"
+            "value": "PerGB2018"
         },
         "systemMetricsProvider": {
             "value": "None"
