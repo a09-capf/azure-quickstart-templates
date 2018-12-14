@@ -42,7 +42,7 @@
       "allowedValues": [
         "free",
         "pernode",
-        "standalone"
+        "PerGB2018"
       ],
       "metadata": {
         "description": "Select the SKU for your workspace [This setting will be ignored if you enabled new pricing model April 2018]"
